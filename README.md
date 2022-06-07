@@ -9,14 +9,10 @@ In this tutorial, I discuss web scraping technique using BeautifulSoup, which is
 3. Webscrapping Libraries in Python	
 4. Scraping data from H&M website	
 
-  4.1 Downloading and parsing the page
-  
+  4.1 Downloading and parsing the page  
   4.2 Extracting price and type details	
-  
-  4.3 Extracting color details	
-  
+  4.3 Extracting color details	  
   4.4 Extracting Composition details
-  
   4.5 Joining the tables
   
   
